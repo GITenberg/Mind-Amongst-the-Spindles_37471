@@ -1,0 +1,37 @@
+_repo: Mind-Amongst-the-Spindles_37471
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Martineau, Harriet
+    birthdate: 1802
+    deathdate: 1876
+    gutenberg_agent_id: '25319'
+    url: http://www.gutenberg.org/2009/agents/25319
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Knight, Charles
+    birthdate: 1791
+    deathdate: 1873
+    gutenberg_agent_id: '38856'
+    url: http://www.gutenberg.org/2009/agents/38856
+description: '"Selected from the Lowell Offering."'
+gutenberg_issued: '2011-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37471'
+  lccn: '30014259'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American literature -- Women authors'
+- !lcsh 'American literature -- Massachusetts -- Lowell'
+- !lcc 'PS'
+- !lcsh 'Working class women -- Literary collections'
+title: Mind Amongst the Spindles. A Miscellany, Wholly Composed by the Factory Girls
+url: http://www.gutenberg.org/ebooks/37471
